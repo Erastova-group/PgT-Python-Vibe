@@ -110,7 +110,7 @@ The notebook is intentionally editable. Students should copy, change, break, and
 
 ## Development Notes
 
-This repository is intentionlly lightweight. The main teaching material lives in the notebook rather than in a Python package.
+This repository is intentionally lightweight. The main teaching material lives in the notebook rather than in a Python package.
 
 When updating the notebook:
 
